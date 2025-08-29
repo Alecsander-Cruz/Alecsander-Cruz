@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there ✌️
+
+#### Sou um amante de tecnologia, principalmente jogos eletrônicos, formado em Ciência da Computação e sempre disposto a aprender coisas novas para ajudar pessoas a resolver problemas!
+
+##### Atualmente estou estudando Ciência de Dados e Python!
 
 <!--
 **Alecsander-Cruz/Alecsander-Cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
